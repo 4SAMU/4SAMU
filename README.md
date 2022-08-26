@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning smart contracts
 ```shell
-please follow me
+please follow me on my github, shukrani
 ```
 
 <!---
