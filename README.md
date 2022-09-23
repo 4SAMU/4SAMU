@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @4SAMU
+- 👋 Hi, I’m [@4SAMU](https://samuportfolio.netlify.app/)
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning smart contracts
 ```shell
 please follow me on my github, shukrani
 ```
-[SAMU](https://samuportfolio.netlify.app/)
+
 
 <!---
 4SAMU/4SAMU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
