@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@4SAMU](https://samuportfolio.netlify.app/)
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning smart contracts & Web3 development
-- most of projects are private
+- ✨ most of projects are private
 ```shell
 please follow me on my github, shukrani
 ```
