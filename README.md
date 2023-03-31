@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 1. number_to_hex
 
--[number to hex](https://www.npmjs.com/package/number_to_hex)
+[number to hex](https://www.npmjs.com/package/number_to_hex)
 
 try on `runkit` [runkit](https://npm.runkit.com/number_to_hex)
 
