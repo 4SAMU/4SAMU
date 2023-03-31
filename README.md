@@ -16,6 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4SAMU&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/4SAMU/4SAMU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4SAMU&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SAMU's GitHub Stats" />
+</a>
+
 ![viewed by](https://visitor-badge.glitch.me/badge?page_id=4SAMU.visitor-badge.issue.12&left_color=#800000&right_color=white).
 
 # npm packages registered
