@@ -20,12 +20,16 @@ You can click the Preview link to take a look at your changes.
 
 # npm packages registered
 
-1. [number to hex](https://www.npmjs.com/package/number_to_hex)
+## 1. number_to_hex
+
+-[number to hex](https://www.npmjs.com/package/number_to_hex)
+
+try on `runkit` [runkit](https://npm.runkit.com/number_to_hex)
 
 ## usage
 
 ```js
-const numberToHex = require("number_to_hex");
+var numberToHex = require("number_to_hex");
 
 console.log(numberToHex(5)); //This will output: "0x5"
 ```
