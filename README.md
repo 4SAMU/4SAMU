@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@4SAMU](https://samuportfolio.netlify.app/)
+- 👋 Hi, I’m [@4SAMU](https://samuel-nzomo.vercel.app)
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning smart contracts & Web3 development
 - ✨ most of projects are private
