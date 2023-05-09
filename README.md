@@ -22,6 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 ![viewed by](https://visitor-badge.glitch.me/badge?page_id=4SAMU.visitor-badge.issue.12&left_color=#800000&right_color=white).
 
+## Issues and fixes
+-open to every one to write
+https://github.com/4SAMU/issues-Fixes
+
+
 # npm packages registered
 
 ## 1. number_to_hex
