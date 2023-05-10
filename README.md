@@ -42,4 +42,4 @@ var numberToHex = require("number_to_hex");
 
 console.log(numberToHex(5)); //This will output: "0x5"
 ```
-![NailShop](https://github.com/4SAMU/Nails_shop/assets/104621754/15bb8aa3-2391-4869-81fb-6811a1df3f93)
+
