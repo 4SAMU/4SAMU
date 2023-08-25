@@ -1,6 +1,6 @@
--✨ Hello, I'm [@4SAMU](https://samuel-nzomo.vercel.app)
--✨ A Full Stack software Engineer
--
+-✨ Hello, I'm [@4SAMU](https://samuel-nzomo.vercel.app)<br/>
+-✨ A Full Stack software Engineer<br/>
+
 
 ```shell
 please follow me on my github, shukrani
