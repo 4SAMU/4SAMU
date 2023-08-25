@@ -18,7 +18,7 @@
 
   <div style="max-width: 500px; display: flex; flex-direction: column;">
     <h1 style="color: #F9FAFB; font-family: Poppins; font-size: 36px; font-style: normal; font-weight: 700; line-height: normal; width: 100%;">
-      Hello, I'm <span style="color: #F2672E;">Samuel Nzomo</span><br/>
+      Hello, I'm <span style={{color: "#F2672E"}}>Samuel Nzomo</span><br/>
       <span style="font-style:italic; font-size:28px"> software Developer</span><br/>      
     </h1>   
     <a href="https://samuel-nzomo.vercel.app">
