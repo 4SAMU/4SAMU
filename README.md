@@ -21,8 +21,8 @@
       Hello, I'm <span style={{color: "#F2672E"}}>Samuel Nzomo</span><br/>
       <span style="font-style:italic; font-size:28px"> software Developer</span><br/>      
     </h1>   
-    <a href="https://samuel-nzomo.vercel.app">
       <p><b>NB</b>✨ most of projects are private</p>
+    <a href="https://samuel-nzomo.vercel.app">
     <button style="width: 187px; height: 48px; flex-shrink: 0; border-radius: 4px; background: #F2672E; color: #fff; cursor: pointer; border: none;">Link with me</button>
     </a>
   </div>
