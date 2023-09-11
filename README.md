@@ -1,6 +1,6 @@
 -✨ Hello, I'm [@4SAMU](https://samuel-nzomo.vercel.app)<br/>
 -✨ A Full Stack software Engineer<br/>
--✨ [npm packages](https://www.npmjs.com/~4samu)
+-✨ [npm packages ~profile](https://www.npmjs.com/~4samu)
 
 
 ```shell
@@ -24,25 +24,3 @@ You can click the Preview link to take a look at your changes.
 
 ## [Issues and fixes](https://github.com/4SAMU/issues-Fixes)
 -open to every one to write
-
-
-
-# npm packages registered
-
-
-## 1. number_to_hex
-
-link👉👉 [number to hex](https://www.npmjs.com/package/number_to_hex)
-
-try on `runkit` [runkit](https://npm.runkit.com/number_to_hex)
-
-### usage
-
-```js
-var numberToHex = require("number_to_hex");
-
-console.log(numberToHex(5)); //This will output: "0x5"
-```
-## 2.react-activenav-button
-link👉👉 [react-activenav-button](https://www.npmjs.com/package/react-activenav-button)
-
