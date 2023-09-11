@@ -1,5 +1,6 @@
 -✨ Hello, I'm [@4SAMU](https://samuel-nzomo.vercel.app)<br/>
 -✨ A Full Stack software Engineer<br/>
+-✨ [npm packages](https://www.npmjs.com/~4samu)
 
 
 ```shell
