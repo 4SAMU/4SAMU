@@ -1,4 +1,4 @@
--✨ Hello, I'm [@4SAMU](https://samuel-nzomo.vercel.app)<br/>
+-✨ Hello, I'm [@4SAMU], Founder,SAMUTECH(https://www.samutech.xyz)<br/>
 -✨ A Full Stack software Engineer<br/>
 -✨ [npm packages ~profile](https://www.npmjs.com/~4samu)
 
