@@ -12,8 +12,6 @@ please follow me on my github, shukrani
 You can click the Preview link to take a look at your changes.
 --->
 
-![Group 5](https://user-images.githubusercontent.com/104621754/189616209-434d3ac4-343a-4886-a335-dd693a662054.png)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4SAMU&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/4SAMU/4SAMU">
