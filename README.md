@@ -1,4 +1,5 @@
 -✨ Hello, I'm Samuel Nzomo, Founder,[SAMUTECH](https://www.samutech.xyz)<br/>
+![Screenshot](https://api.microlink.io?url=https://www.samutech.xyz/&screenshot=true&meta=false&embed=screenshot.url)
 -✨ A Full Stack software Engineer<br/>
 -✨ [npm packages ~profile](https://www.npmjs.com/~4samu)
 
