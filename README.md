@@ -1,4 +1,4 @@
--✨ Hello, I'm Samuel Nzomo, Founder,[LuxennTech formerly (Samutech)](https://www.luxenntech.xyz)<br/>
+-✨ Hello, I'm Samuel Nzomo, Founder, [LuxennTech formerly (Samutech)](https://www.luxenntech.xyz)<br/>
 ![Screenshot](https://api.microlink.io?url=https://www.luxenntech.xyz/&screenshot=true&meta=false&embed=screenshot.url)
 -✨ A Full Stack software Engineer<br/>
 -✨ [npm packages ~profile](https://www.npmjs.com/~4samu)
